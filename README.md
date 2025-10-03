@@ -1,5 +1,5 @@
-<h1 align="center"><h1 align="center"> 👀If you’re reading this, you’ve officially stalked a Data Enthusiast🕵️‍♀️ </h1>
-<h3 align="center">Hello👋, Mansi here! Turning Data into Impact and Exploring the world of Data, one pipeline at a time 📊 </h3>
+<h1 align="center"><h1 align="center"> 👀If you’re reading this, you’ve officially stalked a Data Enthusiast </h1>
+<h3 align="center">Hello👋 Mansi here! Turning Data into Impact and Exploring the world of Data, one pipeline at a time 📊 </h3>
 
 
 <!-- ### 👨‍💻 Data Analytics Projects
