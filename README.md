@@ -41,6 +41,7 @@
 ### 🤝 Connect with me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mansimatekar/)
-- 📧 **Email:** mansi.d.matekar@gmail.com  
-
+- 📧 **Email:** mansi.d.matekar@gmail.com
+- 📜 [Resume](https://docs.google.com/document/d/1wm-14m3WZ1Yo9ImbpdsxcEIQAfZJdESUboZZ-NpfW-o/edit?usp=sharing)
+  
 
