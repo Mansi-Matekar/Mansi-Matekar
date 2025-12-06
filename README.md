@@ -33,8 +33,13 @@
 
 ### 📜 Certifications & Internships
 
-- 📌 Microsoft Certified – **Azure Data Fundamentals DP-900**  
+- 📌 [Microsoft Certified](https://learn.microsoft.com/api/credentials/share/en-us/Mansimatekar-8447/D848A0C0090CAC61?sharingId=5BC9CC6B38382658) – **Azure Data Fundamentals DP-900**
+- 📌 [Microsoft Certified](https://learn.microsoft.com/api/credentials/share/en-us/Mansimatekar-8447/EC1E57222FE89490?sharingId=5BC9CC6B38382658) – **Azure Fabric Data Engineer Associate DP-700**  
+---
 
+### ♠️ Experience 
+
+- 🔷 Capgemini – **Analyst**
 
 ---
 
