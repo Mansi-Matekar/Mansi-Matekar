@@ -47,6 +47,6 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mansimatekar/)
 - 📧 **Email:** mansi.d.matekar@gmail.com
-- 📜 [Resume](https://docs.google.com/document/d/1wm-14m3WZ1Yo9ImbpdsxcEIQAfZJdESUboZZ-NpfW-o/edit?usp=sharing)
+- 📜 [Resume](https://docs.google.com/document/d/17CazsH4M3_QS_xs9nGMihFocwNrMPWlJPYrS6HB9z4k/edit?tab=t.0)
   
 
