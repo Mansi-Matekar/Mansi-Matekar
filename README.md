@@ -34,7 +34,8 @@
 ### 📜 Certifications & Internships
 
 - 📌 [Microsoft Certified](https://learn.microsoft.com/api/credentials/share/en-us/Mansimatekar-8447/D848A0C0090CAC61?sharingId=5BC9CC6B38382658) – **Azure Data Fundamentals DP-900**
-- 📌 [Microsoft Certified](https://learn.microsoft.com/api/credentials/share/en-us/Mansimatekar-8447/EC1E57222FE89490?sharingId=5BC9CC6B38382658) – **Azure Fabric Data Engineer Associate DP-700**  
+- 📌 [Microsoft Certified](https://learn.microsoft.com/api/credentials/share/en-us/Mansimatekar-8447/EC1E57222FE89490?sharingId=5BC9CC6B38382658) – **Azure Fabric Data Engineer Associate DP-700**
+- 📌 [Microsoft Certified](https://learn.microsoft.com/en-us/users/mansimatekar-5751/credentials/8dbe072af9391656) – **Azure AI Engineer Associate**  
 ---
 
 ### ♠️ Experience 
@@ -46,7 +47,7 @@
 ### 🤝 Connect with me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mansimatekar/)
-- 📧 **Email:** mansi.d.matekar@gmail.com
+- 📧 **Email:** mansimatekar55@gmail.com
 - 📜 [Resume](https://docs.google.com/document/d/17CazsH4M3_QS_xs9nGMihFocwNrMPWlJPYrS6HB9z4k/edit?tab=t.0)
   
 
